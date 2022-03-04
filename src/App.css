@@ -1,0 +1,18 @@
+.chessboard {
+  user-select: none;
+}
+
+.chessboard td {
+  width: 30px;
+  height: 30px;
+  border: 1px solid gray;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.chessboard td:hover {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-color: rgba(226, 221, 221, 0.2);
+}

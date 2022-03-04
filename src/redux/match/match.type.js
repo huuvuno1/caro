@@ -1,0 +1,7 @@
+export const SET_YOUR_SYMBOL = 'SET_YOU_HIT_SYMBOL'
+export const SET_OPPONENT_SYMBOL = 'SET_OPPONENT_HIT_SYMBOL'
+export const SET_YOUR_TIME = 'SET_YOUR_TIME'
+export const SET_OPPONENT_TIME = 'SET_OPPONENT_TIME'
+export const CHANGE_TURN = 'CHANGE_TURN'
+export const STOP = 'STOP'
+export const INIT_MATCH = 'INIT_MATCH'
